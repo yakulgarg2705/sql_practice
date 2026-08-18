@@ -60,7 +60,7 @@ This repository documents my journey of strengthening SQL through problem-solvin
 
 A structured set of 50 SQL problems covering fundamental and intermediate SQL concepts.
 
-**Progress:** 8 / 50
+**Progress:** 9 / 50
 
 ### 2. DataLemur
 
@@ -86,7 +86,7 @@ Practical projects using SQL to analyze real-world datasets and answer business 
 
 | Practice Area   | Progress |
 | --------------- | -------: |
-| LeetCode SQL 50 |   8 / 50 |
+| LeetCode SQL 50 |   9 / 50 |
 | DataLemur       |        0 |
 | StrataScratch   |        0 |
 | SQL Projects    |        0 |
